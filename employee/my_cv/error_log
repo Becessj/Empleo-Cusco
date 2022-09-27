@@ -1,0 +1,23 @@
+[25-Aug-2022 18:37:18 UTC] PHP Notice:  Undefined variable: avatar in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 69
+[25-Aug-2022 19:10:16 UTC] PHP Notice:  Undefined variable: ref in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 15
+[25-Aug-2022 19:10:38 UTC] PHP Notice:  Undefined variable: ref in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 15
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: mydesc in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 14
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myid in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 28
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myfname in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 50
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: mylname in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 50
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: mytitle in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 52
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: mygender in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 60
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myemail in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 60
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: mycountry in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 60
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: mycity in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 60
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: mystreet in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 60
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myzip in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 60
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myid in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 85
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myid in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 118
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myid in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 147
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myid in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 179
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myid in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 210
+[25-Aug-2022 21:05:28 UTC] PHP Notice:  Undefined variable: myid in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/index.php on line 242
+[16-Sep-2022 15:17:17 UTC] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/htmlparser.inc on line 224
+[16-Sep-2022 15:17:17 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/fpdf.php on line 1043
+[16-Sep-2022 15:17:18 UTC] PHP Deprecated:  Function get_magic_quotes_runtime() is deprecated in /home/g585vzqwtxil/empleoscusco.guamanpoma.org/employee/my_cv/fpdf.php on line 1043
