@@ -2,7 +2,7 @@
 $compname = $_POST["compname"];
 function notify($to,$data){
 
-    $api_key="AAAAQf1x2to:APA91bEu-XyYTeLwYkGnQUWts3ZXUS1p072zTluG0tCyGpnXJ2jJaSEk48_MzTkjvIrCMDI1CpY9MKZvj1YLOPtofExCNX4UrPXFquk8tr5qyUCPRxSGcmNZTMV9p23WYl1Ivpjv88bL";
+    $api_key="";
     $url="https://fcm.googleapis.com/fcm/send";
     $fields=json_encode(array('to'=>$to,'notification'=>$data));
 
